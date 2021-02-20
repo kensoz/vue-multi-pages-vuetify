@@ -7,12 +7,12 @@ module.exports = {
       title: "client",
       chunks: ["chunk-vendors", "chunk-common", "client"],
     },
-    admin: {
-      entry: "src/pages/admin/main.js",
+    master: {
+      entry: "src/pages/master/main.js",
       template: "public/index.html",
-      filename: "admin.html",
-      title: "admin",
-      chunks: ["chunk-vendors", "chunk-common", "admin"],
+      filename: "master.html",
+      title: "master",
+      chunks: ["chunk-vendors", "chunk-common", "master"],
     },
   },
 
