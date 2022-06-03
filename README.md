@@ -19,7 +19,7 @@ npm install
 
 ##### Dev
 
-Client：http://localhost:8080/client#/
+Client：http://localhost:8080/client#/ \
 Admin：http://localhost:8080/master#/
 
 ```bash
